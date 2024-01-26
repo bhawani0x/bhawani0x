@@ -12,7 +12,7 @@
   
 - 📫 How to reach me **bs01rathore@gmail.com**  
   
-- 📄 Know about my experiences see my  [resume](https://github.com/bhawani0x/bhawani0x/blob/master/Bhawani_Singh_backend.pdf)  
+- 📄 Know about my experiences see my  [resume](https://github.com/bhawani0x/bhawani0x/blob/master/Resume.md)  
   
 - ⚡ Fun fact **More funny than you think**  
   
