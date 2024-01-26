@@ -1,3 +1,5 @@
+![MasterHead](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYyNjY0NDcsIm5iZiI6MTcwNjI2NjE0NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI2VDEwNDkwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY0MWY3NTNiMDdlOWI2MTRjYmRjOWUwNzY3YjQxNTI1OWE0MzhlM2I2NDZkMjM0MDA0ZDdjMzczYzk5N2IwNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.F0aoCNMbMPODO3GEKZyaxIKHmeqFlTZJ4irBrykl9e0)
+
 <h1 align="center">Hi 👋, I'm Bhawani Singh</h1>  
 <h3 align="center">A passionate Python developer</h3>  
 <img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> 
@@ -6,7 +8,7 @@
   
 - 🌱 I’m currently learning **Javascript, React Js**  
   
-- 💬 Ask me about **Python, AWS, Git, Django Rest Framework, PostgreSQL,**
+- 💬 Ask me about **Python, AWS, Git, Django Rest Framework,PostgreSQL,**
   
 - 📫 How to reach me **bs01rathore@gmail.com**  
   
