@@ -1,84 +1,73 @@
-
 # Bhawani Singh
-Email: bs01rathore@gmail.com  
-GitHub: [bhawani0x](https://github.com/bhawani0x)  
-Mobile: +91 7375848100  
+**Email:** bs01rathore@gmail.com  
+**GitHub:** [bhawani0x](https://github.com/bhawani0x)  
+**Mobile:** +91 7375848100  
 
 ## SUMMARY
 
-Experienced backend developer with a demonstrated track record of 2 years in conceiving and constructing robust server-side solutions. I specialize in designing efficient APIs, creating optimized data structures, and implementing algorithms that contribute to seamless user experiences. My collaborative approach thrives in agile environments, showcasing a keen problem-solving aptitude, coupled with a steadfast dedication to code quality and maintainability.
+Backend developer with 3+ years of experience in designing scalable server-side solutions. Skilled in API development, complex data structures, and algorithm implementation for optimized performance. Expertise in Python, Django, Flask, and FastAPI, with a focus on creating efficient, maintainable, and robust applications. Strong problem-solving skills and adept at working in agile environments. Proficient in cloud services, database management, and DevOps practices, ensuring seamless user experiences and high-quality code.
 
-## Experience
+## EXPERIENCE
 
-**Jr. Software Engineer**  
-Cloudastra Technologies, Sector-63, Noida  
-January 2022 - Present
+### **Software Developer**  
+**Cloudastra Technologies, Sector-63, Noida**  
+*January 2022 - February 2024*
 
-- Developing web applications using Python, Django, and Django Rest Framework.
-- Proficient in PostgreSQL and SQL databases.
-- Creating Rest APIs for web applications.
-- Expertise in writing complex Django ORM queries.
-- Utilizing version control systems like Git for collaborative code management.
-- Conducting and participating in code reviews to ensure quality and best practices adherence.
-- Contributing to testing processes including unit and integration testing.
-- Identifying and resolving bugs and performance issues through effective debugging.
-- Working within Agile development methodologies.
-- Writing lambda code for alerting.
-- Deploying websites using EC2 and S3 buckets.
+- Developed web applications using Python, Django, Flask, and Django Rest Framework.
+- Created REST APIs and integrated third-party services for scalable solutions.
+- Extensive experience with PostgreSQL and MySQL databases, including complex ORM queries.
+- Managed source code using Git and collaborated on GitHub, GitLab, and Bitbucket.
+- Conducted code reviews, implemented best practices, and ensured adherence to quality standards.
+- Automated testing processes (unit and integration testing) for reliable and maintainable code.
+- Debugged and resolved issues to enhance application performance.
+- Utilized AWS services (EC2, S3, RDS, Lambda) for deployment and cloud infrastructure management.
+- Implemented logging, monitoring, and alerting for proactive issue management using AWS Lambda and CloudWatch.
+- Followed Agile methodologies, collaborating closely with cross-functional teams.
 
-## Projects
+## PROJECTS
 
-**Nigmabot**  
-- Description: Advanced virtual assistant enabling natural language conversations, image manipulation, PDF/web information extraction, and question-answering.
-- Technology Stack: Django, AWS, Django Rest Framework, Firebase.
-- Roles and Responsibilities: Played a pivotal role in system architecture, backend development, database design, API integration, and testing.
+### **NewsDataFeed**  
+- **Description:** News aggregation platform integrating third-party APIs for fetching news feeds, implementing Stripe payment gateway, email validation, and auto-renewal notifications.
+- **Technology Stack:** Flask, Django, MongoDB, MySQL, Stripe, Redis, AWS S3
+- **Responsibilities:** Backend development, API integration, task scheduling with RQ and Redis, and implementing caching and logging.
 
-**Poll Work**  
-- Description: Social network platform facilitating polls, comments, likes, and social interactions.
-- Technology Stack: Django, PostgreSQL, AWS, Django Rest Framework.
+### **Nigmabot**  
+- **Description:** Advanced AI-based virtual assistant for natural language conversations, image manipulation, PDF extraction, and question-answering capabilities.
+- **Technology Stack:** Django, AWS, Firebase, Django Rest Framework
+- **Responsibilities:** Led system architecture design, backend development, API integration, and testing.
 
-**Discovery**  
-- Description: Healthcare management application empowering users in treatment planning, policy understanding, and admission assistance.
-- Technology Stack: Django, PostgreSQL, AWS, Django Rest Framework.
+### **Poll Work**  
+- **Description:** Social networking platform for creating polls, commenting, liking, and social interaction.
+- **Technology Stack:** Django, PostgreSQL, AWS, Django Rest Framework
 
-**Bazaar**  
-- Description: E-commerce platform for retailers, wholesalers, and agents.
-- Technology Stack: Django, PostgreSQL, AWS, Django Rest Framework.
+### **Discovery**  
+- **Description:** Healthcare management application for treatment planning, policy understanding, and admission assistance.
+- **Technology Stack:** Django, PostgreSQL, AWS, Django Rest Framework
 
-**Wellness**  
-- Description: Health services application for booking onsite and offsite health camps.
-- Technology Stack: Django, PostgreSQL, AWS, Django Rest Framework.
+### **Bazaar**  
+- **Description:** E-commerce platform for retailers, wholesalers, and agents with seamless online shopping experience.
+- **Technology Stack:** Django, PostgreSQL, AWS, Django Rest Framework
 
-**Raffle**  
-- Description: Online platform for digital raffle events.
-- Technology Stack: Django, PostgreSQL.
+### **Wellness**  
+- **Description:** Health services application for booking onsite and offsite health camps.
+- **Technology Stack:** Django, PostgreSQL, AWS, Django Rest Framework
 
-## Skills
+### **Raffle**  
+- **Description:** Online platform for organizing digital raffle events.
+- **Technology Stack:** Django, PostgreSQL
 
-- Programming Languages: Python
-- Web Frameworks: Django, Django Rest Framework
-- Databases: PostgreSQL, MySQL
-- Authentication: JWT, OAuth 2.0 (basic understanding)
-- Version Control: Git, GitHub, Bitbucket, GitLab
-- Cloud Services: AWS (EC2, S3, RDS, Lambda)
-- Operating Systems: Windows, Linux, Ubuntu
-- Web Technologies: HTML, CSS, JavaScript
-- Tools: AWS Services, Terraform, Jenkins, Jira, Docker
+## SKILLS
 
-## Education
+- **Programming Languages:** Python (Django, Flask, FastAPI)
+- **Web Frameworks:** Django, Django Rest Framework, Flask
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Authentication:** JWT, OAuth 2.0 (basic understanding)
+- **Version Control:** Git, GitHub, Bitbucket, GitLab
+- **Cloud Services:** AWS (EC2, S3, RDS, Lambda), Redis
+- **Operating Systems:** Windows, Linux (Ubuntu)
+- **Other Tools:** Jira, Trello, Docker (basic understanding), Nginx
 
-**Master of Computer Application**  
-Jain Online  
-2022 - 2024 (Expected)
+## CERTIFICATIONS & TRAINING
 
-**Bachelor of Computer Applications**  
-St. Andrews Institute of Technology and Management, New Delhi, India  
-2019 - 2022
-
-**12th Grade**  
-Rana International School, Nagaur, Rajasthan  
-2017 - 2018
-
-**10th Grade**  
-Rana International School, Nagaur, Rajasthan  
-2015 - 2016
+- **AWS Certified Cloud Practitioner** (Expected Completion: December 2024)
+- **Python for Data Science** (Coursera)
