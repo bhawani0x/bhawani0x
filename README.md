@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning **Javascript, React Js**  
   
-- 💬 Ask me about **Python, AWS, Git, Django Rest Framework,PostgreSQL,**
+- 💬 Ask me about **Python, AWS, Git, Django Rest Framework, PostgreSQL, Flask**
   
 - 📫 How to reach me **bs01rathore@gmail.com**  
   
